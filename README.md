@@ -56,7 +56,7 @@ This starter is deliberately simple: it bundles products, nothing more. If you n
 - **"add‑on" and upsell** offers at cart and checkout,
 - conversion **analytics** on every bundle,
 
-— that's exactly what our Shopify app **Sleek Bundles** handles, without touching theme code. Learn more: _[Sleek Bundles on the Shopify App Store](#)_ <!-- TODO: confirm live App Store URL -->.
+— that's exactly what our Shopify app **Sleek Bundles Upsell** handles, without touching theme code. Learn more: **[Sleek Bundles Upsell on the Shopify App Store](https://apps.shopify.com/sleek-bundles-upsell)**.
 
 Using this free section is 100% fine on its own — the app is just there when you outgrow it.
 
